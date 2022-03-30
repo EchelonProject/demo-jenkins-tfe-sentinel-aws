@@ -3,7 +3,7 @@ terraform {
     organization = "jaware-hashicorp"
 
     workspaces {
-      name = "demo-tfe-sentinel-aws"
+      name = "demo-jenkins-tfe-sentinel-aws"
     }
   }
   required_providers {
